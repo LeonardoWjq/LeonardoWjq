@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jiuqi.
 - 👀 I’m interested in the theory and applications of reinforcement learning!
-- 🎓 I'm a second-year Ph.D. student in computer science at the University of Virginia, Charlottesville, VA, USA.
+- 🎓 I'm a third-year Ph.D. student in computer science at the University of Virginia, Charlottesville, VA, USA.
 - 💞️ I’m open to collaborating on exciting ML/RL projects.
 - 📫 You can reach me at leonardowang597@gmail.com.
 
